@@ -1,23 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f774a4c7-8509-4278-8ba5-0eec8d79416c" name="Default Changelist" comment="" />
+    <list default="true" id="f774a4c7-8509-4278-8ba5-0eec8d79416c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShapeOfSound/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShapeOfSound/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShapeOfSound/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShapeOfSound/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShapeOfSound/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShapeOfSound/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/material/BounceBall.physicMaterial" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/material/BounceBall.physicMaterial" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/material/BounceWall.physicMaterial" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/material/BounceWall.physicMaterial" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SphereController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SphereFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlockController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/275994A8-3AFE-4714-92CD-8A3642F9FE52/13/87ba4b67/Object.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaveEffect.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/WaveEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlockController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SphereFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SphereController.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1gRTBCKl9SkmYjAz5gstLOQGQZ8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,6 +96,8 @@
       <workItem from="1598076400934" duration="467000" />
       <workItem from="1598077135202" duration="614000" />
       <workItem from="1598077762995" duration="1286000" />
+      <workItem from="1598198357063" duration="2794000" />
+      <workItem from="1598274513285" duration="4536000" />
     </task>
     <servers />
   </component>
@@ -68,6 +106,18 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
@@ -76,17 +126,17 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="578" y="197" width="832" height="716" key="#Inspection_severity/72.27.1848.1053@72.27.1848.1053" timestamp="1598076609432" />
-    <state x="488" y="174" width="1016" height="742" key="SettingsEditor" timestamp="1598077745706">
+    <state x="298" y="195" width="1016" height="742" key="SettingsEditor" timestamp="1598291926111">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="488" y="174" width="1016" height="742" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1598077745706" />
-    <state width="498" height="398" key="SwitcherDM" timestamp="1598076832254">
+    <state x="298" y="195" width="1016" height="742" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1598291926111" />
+    <state width="498" height="431" key="SwitcherDM" timestamp="1598201573833">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="498" height="398" key="SwitcherDM/72.27.1848.1053@72.27.1848.1053" timestamp="1598076832254" />
-    <state x="659" y="255" key="search.everywhere.popup" timestamp="1598077768651">
+    <state width="498" height="431" key="SwitcherDM/72.27.1848.1053@72.27.1848.1053" timestamp="1598201573833" />
+    <state x="659" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1598291903025">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="659" y="255" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1598077768651" />
+    <state x="659" y="255" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1598291903025" />
   </component>
 </project>
